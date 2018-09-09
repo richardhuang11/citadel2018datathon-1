@@ -1,4 +1,4 @@
-# citadel2018datathon
+# Citadel 2018 Datathon
 Edward Cen, Vaibhav Ramamoorthy, Chuck Tang, Richard Huang
 
 This repository contains our project for the 2018 Citadel datathon. We analyzed the predictive value of 311 service requests in predicting the onset of gentrification in New York City communities.
